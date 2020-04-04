@@ -12,7 +12,7 @@ for i in range(1, 6):
     a.append(int(input()))
 
 print()
-print('コンピュータさん：値の平均値は ', Average(a), ' です。')
+print('コンピュータさん：要素の平均値は ', Average(a), ' です。')
 print()
 
 #　■要点■
